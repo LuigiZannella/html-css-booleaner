@@ -1,0 +1,17 @@
+/* inizio header */
+header {
+    background-color: rgb(38, 149, 240);
+}
+
+#logo {
+    height: 50px
+}
+ /* inizio titolo e Body*/
+h1 { font-size: 60px;
+
+}
+/* sottotiloli colori e dimensioni inizio */
+span { color: rgb(53, 187, 228);}
+#grey-subtitle { color: rgb(107, 108, 109);}
+.piccolo-formato { font-size: 12px;}
+/* sottotitoli colori e dimensioni fine */
